@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg{
+    background-color:white;
+    background-size:cover;
+    height:100vh;
+
+}
+.head1{
+    color:black;
+    font-size:28px;
+    padding-top:5px;
+    font-style:italic;
+    text-align:center;
+}
+.head2{
+    color:black;
+    font-size:20px;
+    padding-top:10px;
+    
+    text-align:center;
+    font-family:Roboto;
+    font-weight:bold;
+}
+.pic{
+    background-image:url("https://gumlet.assettype.com/bloombergquint%2F2022-10%2F882ee734-5c0a-4183-be98-88ed9bef94a9%2FAmazon_Festival_sale.jfif?auto=format%2Ccompress&format=webp&w=576");
+    
+    width:50%;
+    height:50vh;
+    padding-top:10px;
+    
+    
+}
+.but{
+    margin-top:250px;
+}
+.para{
+    color:black;
+    font-style:normal;
+    padding-top:10px;
+    
+}
+.bold{
+    font-weight:bold;
+
+}
+.small{
+    width:250px;
+    height:150px;
+}
+.paragraph{
+    text-align:center;
+}
